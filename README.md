@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project demonstrates an enterprise-style **Hub-and-Spoke virtual network topology** in Microsoft Azure. It isolates application tiers across separate Virtual Networks (VNets), enforces least-privilege traffic filtering with Network Security Groups (NSGs), and removes public IP attack surfaces using **Azure Bastion**.
 
-![Architecture Diagram](images/architecture-diagram.png)
+![Azure Hub-and-Spoke Architecture Diagram](azure-hub-spoke-network-security.webp)
 
 ---
 
